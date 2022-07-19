@@ -13,9 +13,9 @@
     margin: 20px !important;
 }
 
-.btn-1 {
+.btn1{
     display: inline;
-    position: fixed;
+    position: fixed !important;
     right: 0;
     top: 5px;
 }
