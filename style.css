@@ -96,7 +96,6 @@ body {
     font-family: Poppins, sans-serif;
     color: #000;
     font-weight: 1000;
-    /* background-image: linear-gradient(25deg, #f7cac9, #ffdcdb, #ffffff, #b4c8ea, #91a8d0); */
     background-image: linear-gradient(35deg,#414b5b,#ffffff,#78abe0);
 }
 
@@ -121,7 +120,7 @@ body {
     padding: 30px;
 }
 
-.marque {
+marquee {
     padding: 10px;
     background-color: #000;
     color: whitesmoke;
