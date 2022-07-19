@@ -13,6 +13,14 @@
     margin: 20px !important;
 }
 
+.btn-1 {
+    display: inline;
+    position: fixed;
+    right: 0;
+    top: 5px;
+}
+
+
 .head {
     padding: 30px;
     text-align: center;
@@ -40,6 +48,13 @@
 .bold {
     font-weight: 1000 !important;
 } 
+
+.black-pic {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    color: rgba(0, 0, 0, 0.55);
+}
 
 sup {
     z-index: 0;
@@ -120,7 +135,7 @@ body {
     padding: 30px;
 }
 
-marquee {
+.marque {
     padding: 10px;
     background-color: #000;
     color: whitesmoke;
