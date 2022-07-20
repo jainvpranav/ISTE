@@ -2,6 +2,16 @@
     box-sizing: border-box;
 }
 
+.venue {
+    display: inline-block;
+    background-color: #000;
+    color: whitesmoke !important;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
 .card-text {
     display: inline-block;
 }
